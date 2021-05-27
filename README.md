@@ -1,4 +1,4 @@
-# CSCI-4830-Kids-CS-Game
+# Coding4Kids
 Repository for the CSCI-4830 project for teaching children CS coding skills
 
 Team Composition and Initial Project Ideas
