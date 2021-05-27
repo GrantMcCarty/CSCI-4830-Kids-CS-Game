@@ -14,7 +14,5 @@ Team Roles:
 5.	Quality Assurance- Grant McCarty
 6.	Tech Support – Joey Ferrante
 
-
-Initial Project Ideas
-
-Our vision for the Coding4Kids project involves designing an application that helps kids get familiar with coding in Java. The app design will give kids a short lesson on basic Java principles, then quiz them on their knowledge through interactive learning games, multiple choice questions, and short coding practice where students type in their coding solution to meet a given problem. Java will be the main language taught in the app, and the lessons will begin basic and progressively get harder as the student finishes lessons and completes levels. We plan to use github as our repository. We plan on using Angular for our web application and exploring digital ocean or AWS options as platforms to run our project on. We plan on using a Java back-end and an Angular front-end for our web application.
+For documents we have a shared folder on OneDrive:
+CSCI4380-Coding4KidsFolder
